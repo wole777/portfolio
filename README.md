@@ -14,6 +14,9 @@ I code primarily in Python due to its ease of use and versatility. I am of cours
 
 I am currently focused on consolidating my knowledge base towards a career in software engineering.
 
+## Code Examples
+You can [view my code and project examples here (opens in GitHub)](https://github.com/wole777/wole777/blob/main/README.md)
+
 ## How to Reach Me
 You can send an email to olawole@ewconcepts.com
 <!--
